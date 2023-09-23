@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.lm2a.config.DBConfig",
+      "sourceType": "com.lm2a.config.DBConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "activate-functionality",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.lm2a.config.DBConfig"
+    },
+    {
+      "name": "application-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lm2a.config.DBConfig"
+    }
+  ],
+  "hints": []
+}
