@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Tserberk
+ *
+ */
+module EjercicioCompareTo {
+}
